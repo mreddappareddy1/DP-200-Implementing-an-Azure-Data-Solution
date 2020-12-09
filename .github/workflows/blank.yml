@@ -42,4 +42,4 @@ jobs:
           # url of API to fetch
           url: https://www1.nseindia.com//live_market/dynaContent/live_watch/stock_watch/niftyStockWatch.json
           # location and filename
-          file: optional, default is actions/data.json
+          file: data.json
